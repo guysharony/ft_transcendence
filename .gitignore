@@ -1,0 +1,14 @@
+.vscode
+.DS_Store
+.env
+
+**/node_modules
+node_modules
+
+**/dist
+dist
+source/frontend/src/public/script/
+source/frontend/src/public/index.html
+
+source/backend/src/avatars/*
+!source/backend/src/avatars/default_avatar.jpeg
